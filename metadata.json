@@ -1,0 +1,5 @@
+{
+  "name": "CryptoSpark",
+  "description": "A modern cryptocurrency tracker application built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
